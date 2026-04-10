@@ -1,4 +1,4 @@
-# 💻 Fundamentos de Programação em C e C++
+# 💻 Fundamentos de Programação em C 
 
 Este repositório é um registro da minha jornada aprendendo lógica de programação e manipulação de baixo nível. Aqui estão contidos algoritmos essenciais e exercícios práticos desenvolvidos durante meus estudos de base.
 
