@@ -10,7 +10,6 @@ Este repositório é um registro da minha jornada aprendendo lógica de programa
 
 ## 🛠️ Tecnologias Utilizadas
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 📌 Como rodar os arquivos
 Para compilar e executar os programas, você precisará de um compilador como o `gcc` ou `g++`.
